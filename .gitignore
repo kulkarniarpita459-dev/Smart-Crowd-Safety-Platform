@@ -3,4 +3,4 @@ __pycache__/
 node_modules/
 *.pt
 .env
-venv/crowd_data.db
+crowd_data.db
